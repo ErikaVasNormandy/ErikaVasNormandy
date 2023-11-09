@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErikaVasNormandy
 - 👀 I’m interested in ... NASA, Illustration, Character Design, and Engineering
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ... Practical Security
 - 💞️ I’m looking to collaborate on ... Webcomics, maybe a game, maybe some technical illustrations
 - 📫 How to reach me ...
 
